@@ -38,6 +38,6 @@ To get a local copy of this project up and running, follow these steps:
 ## Login
 
 - Open the app in your browser at http://localhost:3000.
-- Enter username: "jdoe@mail.com" and password: "123456in".
+- Enter username: "jdoe@mail.com" and password: "123456".
 
 
