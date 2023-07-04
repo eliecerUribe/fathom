@@ -1,13 +1,13 @@
 # React App with REST API Integration
 
-This repository contains a React application that demonstrates how to consume a REST API using Axios. The app fetches product data from the [FakeAPI](https://fakeapi.platzi.com/en/rest/products) and displays it in a user-friendly interface.
+This repository contains a React application that demonstrates how to consume a REST API using Axios. The app fetches product data from the [FakeAPI](https://fakeapi.platzi.com/en/rest/products){:target="_blank"} and displays it in a user-friendly interface.
 
 ## Features
 
-- Fetches product data from the FakeAPI.
-- Displays the fetched product data in a visually appealing way.
-- Allows users to view detailed information about each product.
-- Provides a responsive design for a seamless experience across devices.
+- Fetches products in a list.
+- Add new product
+- Edit a product
+- Delete a product
 
 ## Technologies Used
 
@@ -34,5 +34,10 @@ To get a local copy of this project up and running, follow these steps:
 4. Start the development server:
    ```bash
    npm start
+
+## Login
+
+- Open the app in your browser at http://localhost:3000.
+- Enter username: "jdoe@mail.com" and password: "123456in".
 
 
