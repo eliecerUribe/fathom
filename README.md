@@ -40,4 +40,8 @@ To get a local copy of this project up and running, follow these steps:
 - Open the app in your browser at http://localhost:3000.
 - Enter username: "jdoe@mail.com" and password: "123456".
 
+## Recomendations
+
+Use node v14.17.1 (npm 6.14.13)
+
 
